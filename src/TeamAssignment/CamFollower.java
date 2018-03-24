@@ -57,7 +57,6 @@ public class CamFollower extends RobotProgrammingDemo implements SensorPortListe
 				
 				else if (whiteLight) {
 					System.out.println("Light");
-				
 				}
 				
 				else {
